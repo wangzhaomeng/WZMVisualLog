@@ -1,0 +1,6 @@
+framework module WZMVisualLog {
+  umbrella header "WZMVisualLog-umbrella.h"
+
+  export *
+  module * { export * }
+}

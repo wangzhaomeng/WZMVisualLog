@@ -1,0 +1,16 @@
+PODS:
+  - WZMVisualLog (0.1.0)
+
+DEPENDENCIES:
+  - WZMVisualLog (from `../`)
+
+EXTERNAL SOURCES:
+  WZMVisualLog:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WZMVisualLog: d980550eeee4cb930876970f8ce16f051643dd63
+
+PODFILE CHECKSUM: 07e0cc9aed09eaac7c6f40c36b1bbb79651aa8f2
+
+COCOAPODS: 1.7.4
