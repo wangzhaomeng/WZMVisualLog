@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'WZMVisualLog_Example' do
+  pod 'WZMVisualLog', :path => '../'
+
+  target 'WZMVisualLog_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
